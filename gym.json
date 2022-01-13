@@ -167,7 +167,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/kardinal-von-galen-gymnasium\/tdot\/schule#from-gym"
+                 "value":"\/@\/kardinal-von-galen-gymnasium\/tdot\/klassenzimmer#from-gym"
                 }],
          "type":"tilelayer",
          "visible":true,
