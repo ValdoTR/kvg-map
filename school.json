@@ -160,7 +160,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Dr\u00fccken Sie die LEERTASTE oder ber\u00fchren Sie hier, wenn Sie Hilfe ben\u00f6tigen"
+                 "value":"Dr\u00fccken Sie die LEERTASTE oder klicken Sie hier, um den Raum zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -193,7 +193,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Dr\u00fccken Sie die LEERTASTE oder ber\u00fchren Sie hier, wenn Sie Hilfe ben\u00f6tigen"
+                 "value":"Dr\u00fccken Sie die LEERTASTE oder klicken Sie hier, um den Raum zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -226,7 +226,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Dr\u00fccken Sie die LEERTASTE oder ber\u00fchren Sie hier, wenn Sie Hilfe ben\u00f6tigen"
+                 "value":"Dr\u00fccken Sie die LEERTASTE oder klicken Sie hier, um den Raum zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Dr\u00fccken Sie die LEERTASTE oder ber\u00fchren Sie hier, wenn Sie Hilfe ben\u00f6tigen"
+                 "value":"Dr\u00fccken Sie die LEERTASTE oder klicken Sie hier, um den Raum zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -292,7 +292,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Dr\u00fccken Sie die LEERTASTE oder ber\u00fchren Sie hier, wenn Sie Hilfe ben\u00f6tigen"
+                 "value":"Dr\u00fccken Sie die LEERTASTE oder klicken Sie hier, um den Raum zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -325,7 +325,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Dr\u00fccken Sie die LEERTASTE oder ber\u00fchren Sie hier, wenn Sie Hilfe ben\u00f6tigen"
+                 "value":"Dr\u00fccken Sie die LEERTASTE oder klicken Sie hier, um den Raum zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -358,7 +358,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Dr\u00fccken Sie die LEERTASTE oder ber\u00fchren Sie hier, wenn Sie Hilfe ben\u00f6tigen"
+                 "value":"Dr\u00fccken Sie die LEERTASTE oder klicken Sie hier, um den Raum zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
